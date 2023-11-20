@@ -1,0 +1,16 @@
+languageCode: en-uk
+title: Ethan Hall - Developer
+theme: PaperMod
+
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON # is necessary
+
+markup:
+  goldmark:
+    parser:
+      attribute:
+        block: true
+        title: true
