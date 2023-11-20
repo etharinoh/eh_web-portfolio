@@ -1,6 +1,6 @@
 ./public/
 ./resources/_gen/
-./themes/*
+themes/*
 hugo.exe
 hugo.linux
 hugo.darwin
